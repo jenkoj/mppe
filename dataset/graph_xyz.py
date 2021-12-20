@@ -4,7 +4,7 @@ from scipy import ndimage
 from scipy.ndimage.interpolation import zoom
 vox_size = 32
 # load array
-data = load('voxels/63_8475_10313_17790_28845.npy')
+data = load('voxelsFloat/11_115891_198292_118752_200556.npy')
 # print the array
 # print(data.shape)
 # n = 100
@@ -50,8 +50,8 @@ fig = plt.figure()
 #ax = fig.gca(projection='3d')
 
 #ax.voxels(data[40:60,40:60,40:60], edgecolor="k")
-# for l in range(0,100,1):
-#     plt.imshow(data[:,:,l])
-#     plt.show()
+for l in range(0,100,1):
+     plt.imshow(data[:,:,l])
+     plt.show()
 
 print(np.unique(data,return_counts=True))
