@@ -1,11 +1,8 @@
 # MPPE
 
-model production price estmation
-
-
 # Idea
 
-idea is to develop deep learning network that predicts price of 3D object:
+idea is to develop deep learning network that predicts price of 3D object
 
 ![Screenshot 2022-02-02 at 11 53 39](https://user-images.githubusercontent.com/52485152/152140483-e965c71b-e5de-44e6-b35e-2e0eb8b9d846.png)
 
