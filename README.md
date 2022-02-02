@@ -10,7 +10,7 @@ idea is to develop deep learning network that predicts price of 3D object
 
 ![Screenshot 2022-02-02 at 11 55 09](https://user-images.githubusercontent.com/52485152/152140718-136c2604-b014-4cb0-8b0b-5ddbfc493225.png)
 
-# Proces
+# Process
 
 ![image](https://user-images.githubusercontent.com/52485152/152140892-e5cf44c7-31d0-4814-a931-f961dc0b862b.png)
 
